@@ -1,9 +1,8 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.lambdatest.com/resources/images/news24.gif))
 <h1 align="center">Hi 👋, I'm Jagjot Singh</h1>
 <h3 align="center">A passionate Web & Blockchain Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flenex-io&label=Profile%20views&color=0e75b6&style=flat" alt="flenex-io" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flenex-io" alt="flenex-io" /></a> </p>
 
 - 🌱 I’m currently learning **BlockChain**
 
