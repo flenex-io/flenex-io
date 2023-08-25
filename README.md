@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaperaccess.com/full/8351156.gif)
+![MasterHead]([https://wallpaperaccess.com/full/8351156.gif](https://cdn.wallpapersafari.com/30/0/n0HOqk.gif))
 <h1 align="center">Hi 👋, I'm Jagjot Singh</h1>
 <h3 align="center">A passionate Web & Blockchain Developer from India</h3>
 
