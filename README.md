@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.lambdatest.com/resources/images/news24.gif))
+[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)
 <h1 align="center">Hi 👋, I'm Jagjot Singh</h1>
 <h3 align="center">A passionate Web & Blockchain Developer from India</h3>
 
