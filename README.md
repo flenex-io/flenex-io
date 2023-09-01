@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flenex-io&label=Profile%20views&color=0e75b6&style=flat" alt="flenex-io" /> </p>
 
-- 🌱 I’m currently learning **BlockChain**
+- 🌱 I’m currently learning **BlockChain Development**
 
 - 📫 How to reach me **dev.flenex@gmail.com**
 
