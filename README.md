@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flenex-io&show_icons=true&locale=en&layout=compact" alt="flenex-io" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flenex-io&show_icons=true&locale=en" alt="flenex-io" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flenex-io&" alt="flenex-io" /></p>
