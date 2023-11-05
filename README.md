@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.wallpapersafari.com/30/0/n0HOqk.gif)
+![image](https://github.com/flenex-io/flenex-io/assets/125189238/c9bf8d47-e8c0-4b2d-88e4-16a940dbacda)![MasterHead](https://cdn.wallpapersafari.com/30/0/n0HOqk.gif)
 <h1 align="center">Hi 👋, I'm Jagjot Singh</h1>
 <h3 align="center">A passionate Web & Blockchain Developer from India</h3>
 
@@ -12,6 +12,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/jagjot-singh-43389926a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jagjot-singh-43389926a/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/flenex.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/flenex.io/" height="30" width="40" /></a>
+<a href="https://twitter.com/Jagjot910938" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2023/08/X-Logo.jpg" alt="https://www.linkedin.com/in/jagjot-singh-43389926a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
