@@ -1,4 +1,4 @@
-![image](https://github.com/flenex-io/flenex-io/assets/125189238/c9bf8d47-e8c0-4b2d-88e4-16a940dbacda)![MasterHead](https://cdn.wallpapersafari.com/30/0/n0HOqk.gif)
+![MasterHead](https://cdn.wallpapersafari.com/30/0/n0HOqk.gif)
 <h1 align="center">Hi 👋, I'm Jagjot Singh</h1>
 <h3 align="center">A passionate Web & Blockchain Developer from India</h3>
 
