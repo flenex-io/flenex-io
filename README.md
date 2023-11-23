@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **BlockChain**
 
-- 📫 How to reach me **dev.flenex@gmail.com**
+- 📫 How to reach me: **dev.flenex@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
