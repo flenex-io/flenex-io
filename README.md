@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **dev.flenex@gmail.com**
 
-- 💻 Portfolio: **(Flenex.io)[https://www.flenex.io]**
+- 💻 Portfolio: **[Flenex.io](https://www.flenex.io)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
