@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flenex-io&label=Profile%20views&color=0e75b6&style=flat" alt="flenex-io" /> </p>
 
+- 💻 Portfolio: **[Flenex.io](https://www.flenex.io)**
+
 - 🌱 I’m currently learning **BlockChain**
 
 - 📫 How to reach me: **dev.flenex@gmail.com**
-
-- 💻 Portfolio: **[Flenex.io](https://www.flenex.io)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
