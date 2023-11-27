@@ -6,9 +6,9 @@
 
 - 💻 Portfolio: **[Flenex.io](https://www.flenex.io)**
 
-- 🌱 I’m currently learning **BlockChain**
+- 🌱 I’m currently learning **BlockChain Development**
 
-- 📫 How to reach me: **dev.flenex@gmail.com**
+- 📫 How to reach me: **info@flenex.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
