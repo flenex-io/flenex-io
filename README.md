@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **BlockChain Development**
 
-- 📫 How to reach me: **info@flenex.io**
+- 📫 Reach me: **info@flenex.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
