@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working on taking Flenex.io to some next level
 
-- 📫 Reach us: **info@flenex.io**
+- 📫 Reach us at: **info@flenex.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
