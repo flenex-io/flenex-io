@@ -6,7 +6,7 @@
 
 - 💻 Agency Website: **[Flenex.io](https://www.flenex.io)**
 
-- 🌱 I’m currently working on taking Flenex.io to some next level
+- 🌱 I’m currently building my agency Flenex.io
 
 - 📫 Reach us at: **info@flenex.io**
 
